@@ -20,7 +20,7 @@ To get started with this project, follow these steps:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/e-commerce-cart.git
+   git clone https://github.com/rayjon575/phase-2-e-commerce-cart.git
     cd e-commerce-cart
     npm install
     npm start
